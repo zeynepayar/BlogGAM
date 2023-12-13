@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16934480991",
+    "project_id": "bloggamm-7cd9d",
+    "storage_bucket": "bloggamm-7cd9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16934480991:android:36bfc8f91a3a42b2507fea",
+        "android_client_info": {
+          "package_name": "com.example.bloggam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeoLORpRTIqZ6C69oO0GVmfo0FmLdlrZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
